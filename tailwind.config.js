@@ -12,7 +12,7 @@ module.exports = {
         secondary: "#fbbf24"
       },
       fontFamily: {
-        karla: ["karla", "serif"]
+        karla: ["karla", "sans"]
       }
     },
   },

@@ -1,25 +1,22 @@
-import TypewriterComponent from "typewriter-effect"
-import Image from "next/image"
-import profilPic from "../../public/icons/Akhyar.jpg"
+import TypewriterComponent from "typewriter-effect";
+import Image from "next/image";
+import profilPic from "../../public/icons/Akhyar.jpg";
 
 const Home = () => {
-  const job = [
-    "Fullstact Developer",
-    "AI engenering",
-  ]
+  const job = ["Fullstact Developer", "AI engenering"];
 
-  return(
+  return (
     <div className="flex justify-center w-full font-karla flex-col pt-20">
       <div className="flex flex-col text-center font-medium text-xs mb-14">
         <h3>Hello Im</h3>
         <h3 className="text-2xl text-secondary font-bold">Muhammad Akhyar</h3>
         <h3 className="font-thin mb-2">
-          <TypewriterComponent 
+          <TypewriterComponent
             options={{
               strings: job,
               autoStart: true,
               cursor: "|",
-              loop: true
+              loop: true,
             }}
           />
         </h3>
@@ -35,7 +32,7 @@ const Home = () => {
         />
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
