@@ -1,4 +1,4 @@
-/** @type {import('tailwindcss').Config} */ 
+/** @type {import('tailwindcss').Config} */
 
 module.exports = {
   content: [
@@ -9,12 +9,12 @@ module.exports = {
     extend: {
       colors: {
         primary: "#1e293b",
-        secondary: "#fbbf24"
+        secondary: "#fbbf24",
       },
       fontFamily: {
-        karla: ["karla", "sans"]
-      }
+        karla: ["Karla", "sans"],
+      },
     },
   },
   plugins: [],
-}
+};

@@ -22,7 +22,7 @@ const Home = () => {
         </h3>
         <div className="h-[3px] bg-slate-100 w-[150px] rounded-md mx-auto"></div>
       </div>
-      <div className="flex justify-center mx-auto w-[200px] md:w-[300px] border-2 border-secondary rounded-3xl ring ring-secondary">
+      <div className="flex shadow-cyan-900 shadow-2xl justify-center mx-auto w-[200px] md:w-[300px] border-2 border-secondary rounded-3xl ring ring-secondary">
         <Image
           src={profilPic}
           alt="photo profil author"
