@@ -6,7 +6,10 @@ const Home = () => {
   const job = ["Fullstact Developer", "AI engenering"];
 
   return (
-    <div className="flex justify-center w-full font-karla flex-col pt-20">
+    <div
+      className="flex justify-center w-full font-karla flex-col pt-20"
+      id="home"
+    >
       <div className="flex flex-col text-center font-medium text-xs mb-14">
         <h3>Hello Im</h3>
         <h3 className="text-2xl text-secondary font-bold">Muhammad Akhyar</h3>

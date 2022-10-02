@@ -5,7 +5,7 @@ import { TitleH3 } from "../atom/header";
 
 const AboutMe = () => {
   return (
-    <div className="w-full text-center mt-20">
+    <div className="w-full text-center mt-20" id="about">
       <TitleH3 title="About Me" />
       <div className="lg:flex lg:justify-between">
         <div className="flex shadow-lg shadow-cyan-900 justify-center mx-auto w-[200px] md:w-[300px] border-2 border-secondary rounded-3xl ring ring-secondary mt-14">

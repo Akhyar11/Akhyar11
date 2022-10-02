@@ -8,7 +8,7 @@ import tailwind from "../../public/icons/tailwindcss-icon.svg";
 
 const Skil = () => {
   return (
-    <div className="w-full text-center mt-20">
+    <div className="w-full text-center mt-20" id="skil">
       <TitleH3 title={"Skil"} />
       <div className="flex flex-col justify-center items-center md:grid md:grid-cols-4 gap-6 place-content-stretch p-10">
         <SkilDiv name={"Node Js"} img={node} />
