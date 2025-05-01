@@ -48,8 +48,8 @@ Di luar dunia pemrograman, saya gemar berolahraga, terutama **lari** dan **trail
 
 ### 📈 GitHub Stats
 
-![Akhyar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhyarp&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhyarp&layout=compact&theme=tokyonight)
+![Akhyar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhyar11&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhyar11&layout=compact&theme=tokyonight)
 
 ---
 
@@ -59,15 +59,6 @@ Ketika tidak ngoding, saya:
 - Berlari di pegunungan
 - Menjelajah teknologi baru
 - Mendalami AI dan data
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-akhyarp-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/akhyarp)  
-[![Twitter](https://img.shields.io/badge/Twitter-@akhyarp-blue?style=flat-square&logo=twitter)](https://twitter.com/akhyarp)  
-[![Website](https://img.shields.io/badge/Portfolio-akhyarp.dev-24292e?style=flat-square&logo=githubpages)](https://akhyarp.dev)
-
 ---
 
 _“Keep learning, keep building, and keep moving forward.”_
