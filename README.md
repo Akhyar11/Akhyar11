@@ -1,34 +1,73 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Hi, I'm Muhammad Akhyar! 👋  
+**Full Stack Developer | Mobile Developer | AI & Data Science Enthusiast | Trail Runner**
 
-## Getting Started
+---
 
-First, run the development server:
+### 🚀 About Me
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Saya seorang **Full Stack Developer** dengan keahlian di **JavaScript** dan **PHP**, khususnya menggunakan **React.js** dan **Laravel**.  
+Saya juga mengembangkan aplikasi mobile dengan **React Native**.  
+Saat ini saya sedang mendalami dunia **Data Science** dan **Artificial Intelligence**.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Di luar dunia pemrograman, saya gemar berolahraga, terutama **lari** dan **trail running**.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+---
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### 🛠️ Tech Stack
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## Learn More
+**Backend**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=flat-square&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 
-To learn more about Next.js, take a look at the following resources:
+**Mobile**  
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Database**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-## Deploy on Vercel
+**Learning**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-3C9CD7?style=flat-square)
+![AI](https://img.shields.io/badge/AI-black?style=flat-square&logo=openai&logoColor=white)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### 📈 GitHub Stats
+
+![Akhyar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhyarp&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhyarp&layout=compact&theme=tokyonight)
+
+---
+
+### 🏃 Fun Fact
+
+Ketika tidak ngoding, saya:
+- Berlari di pegunungan
+- Menjelajah teknologi baru
+- Mendalami AI dan data
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akhyarp-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/akhyarp)  
+[![Twitter](https://img.shields.io/badge/Twitter-@akhyarp-blue?style=flat-square&logo=twitter)](https://twitter.com/akhyarp)  
+[![Website](https://img.shields.io/badge/Portfolio-akhyarp.dev-24292e?style=flat-square&logo=githubpages)](https://akhyarp.dev)
+
+---
+
+_“Keep learning, keep building, and keep moving forward.”_
